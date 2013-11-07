@@ -1,10 +1,12 @@
 /* CONFIGURATION */
 
 /* Bodytext font */
-$font: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+// $font: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$fontlogo: "Lily Script One";
 
 /* Font for headings */
-$fontheadings: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$fontheadings: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 /* Text colors */
 $text: #21272d;
@@ -20,3 +22,5 @@ $accent: #2077b2;
 @import "icons";
 @import "syntax";
 @import "responsive";
+@import "logo";
+@import "home";
