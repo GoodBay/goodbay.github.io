@@ -1,7 +1,7 @@
 inc:
   # Blog Information
   title:        "GoodBay"
-  subtitle:     "Do good. Get stuff."
+  subtitle:     "Do good. Get rewards."
   cover_image:  blog-cover.jpg
   logo:         logo.png
   
@@ -9,7 +9,7 @@ inc:
   company:      GoodBay
   url:          http://www.goodbay.org
   facebook:     
-  twitter:      goodbayyo
+  twitter:      goodbayorg
   gplus:        
   about_link:   https://www.goodbay.org/about
   
@@ -34,12 +34,13 @@ inc:
   analytics:
     google: 
       # eg. 'UA-123-12'
-      id:       false
+      id:       'UA-45552802-1'
       
       
   # Google Fonts
   # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
-  google_font: 'Droid+Sans:400,700'
+  # google_font: 'Droid+Sans:400,700'
+  google_font: 'Lily+Script+One'
   
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
